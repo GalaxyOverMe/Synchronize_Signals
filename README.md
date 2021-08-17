@@ -5,7 +5,7 @@
 
 <br>
 시점과 길이가 다른 유사한 신호를 MSE를 사용하여 동기화한다. (정확하게는 RMSE) <br>
-<b>synchronize signals.ipynb</b>를 참고하십시오.
+<b>Synchronize_Signals</b>를 참고하십시오.
 
 
 
