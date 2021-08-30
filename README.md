@@ -5,6 +5,8 @@
 
 <br>
 시점과 길이가 다른 유사한 신호를 MSE를 사용하여 동기화한다. (정확하게는 RMSE) <br>
+->
+※ 신호유사성 판단에는 MSE보다는 DTW(Dynamic Time Warping)이 더 정확할 수 있습니다.
 <b>Synchronize_Signals.ipynb</b>를 참고하십시오.
 
 
